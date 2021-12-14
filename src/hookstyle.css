@@ -1,0 +1,12 @@
+button,label {
+ 
+    position: relative;
+    left: 35rem;
+    padding-top: 1px;
+    display: inline-block;
+    width: 10rem;
+    height: 3rem;
+    color: rgba(235, 153, 153, 0.89);
+    background-color: rgba(255, 255, 255, 0.9);
+    
+}
